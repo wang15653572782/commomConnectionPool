@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\vs_projects\project1\CommomConnectionPool\CommomConnectionPool\main.cpp(26,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs_projects\project1\CommomConnectionPool\CommomConnectionPool\main.cpp(43,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs_projects\project1\CommomConnectionPool\CommomConnectionPool\main.cpp(60,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs_projects\project1\CommomConnectionPool\CommomConnectionPool\main.cpp(77,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CommomConnectionPool.vcxproj -> D:\vs_projects\project1\CommomConnectionPool\x64\Debug\CommomConnectionPool.exe
